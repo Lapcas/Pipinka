@@ -4,6 +4,7 @@
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
 print("peter was here")
+print("what up")
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
